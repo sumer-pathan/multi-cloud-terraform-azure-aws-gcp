@@ -20,21 +20,29 @@ This project provisions identical foundational infrastructure across three major
 ## Project Structure
 
 multi-cloud-terraform-azure-aws-gcp/
-├── modules/
-│ ├── network/ # Azure
-│ ├── compute/ # Azure
-│ ├── storage/ # Azure
-│ ├── aws-network/
-│ ├── aws-compute/
-│ ├── aws-storage/
-│ ├── gcp-network/
-│ ├── gcp-compute/
-│ └── gcp-storage/
-├── environments/
-│ ├── azure/
-│ ├── aws/
-│ └── gcp/
-└── README.md
+modules/
+network/ (Azure)
+compute/ (Azure)
+storage/ (Azure)
+aws-network/
+aws-compute/
+aws-storage/
+gcp-network/
+gcp-compute/
+gcp-storage/
+environments/
+azure/
+aws/
+gcp/
+README.md
+
+Select the current broken tree block in the GitHub editor (from ## Project Structure down through the closing triple-backtick), delete it, and paste this in instead. Then click Preview to confirm it renders as a clean indented block, and hit Commit changes.
+
+
+
+
+⚡
+Enhance Prompt
 
 
 ---
