@@ -1,12 +1,4 @@
-Got it. You want clear **separate headlines** with proper formatting under each section.
 
-Here’s a cleaner version that will render properly on GitHub:
-
----
-
-**Delete everything in your current `README.md` and paste this:**
-
-```markdown
 # Multi-Cloud Infrastructure with Terraform
 
 **Azure + AWS + GCP** | Modular Design | Remote State | Cost Optimized
